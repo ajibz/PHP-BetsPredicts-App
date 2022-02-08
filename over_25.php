@@ -20,7 +20,7 @@ curl_setopt_array($curl, [
   CURLOPT_CUSTOMREQUEST => "GET",
   CURLOPT_HTTPHEADER => [
     "x-rapidapi-host: football-prediction-api.p.rapidapi.com",
-    "x-rapidapi-key: ec32fac765msh8307d0daea82c31p19aa88jsn5a4d23e5dbc3"
+    "x-rapidapi-key: ***********************************"
   ],
 ]);
 
